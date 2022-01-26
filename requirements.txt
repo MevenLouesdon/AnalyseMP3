@@ -8,5 +8,4 @@ numpy==1.19.5
 ipympl==0.5.8
 ipywidgets==7.5.0
 httplib2
-HTMLSession
-SoupStrainer
+requests-html==0.10.0
