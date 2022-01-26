@@ -82,7 +82,9 @@ Le dépôt Git de ce cours doit servir de modèle de structuration de données e
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/mevenlouesdon-analysemp3-k5u0ox1q/lab/tree/notebook)
 
-[Launch Voilà](https://hub.gke2.mybinder.org/user/mevenlouesdon-analysemp3-k5u0ox1q/lab/tree/notebook/meven_louesdon_App.ipynb)
+[Launch Voilà](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.huma-num.fr%2Fmnauge%2Fcnam-athon-pronunciation/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fprenom_nom_App.ipynb)
+
+[Launch Voilà](https://hub.gke2.mybinder.org/user/mevenlouesdon-analysemp3-k5u0ox1q/lab/HEAD?urlpath=voila/render/notebook/meven_louesdon_App.ipynb)
 
 
 
